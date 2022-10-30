@@ -1,0 +1,2 @@
+# mailModule
+PHP Mailer module
